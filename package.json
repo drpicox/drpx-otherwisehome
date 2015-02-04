@@ -1,0 +1,25 @@
+{
+  "name": "drpx-otherwisehome",
+  "version": "0.0.1",
+  "description": "Simple Angular component that provides from a otherwisehome that can be used as model, controller or directive",
+  "main": "drpx-otherwisehome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drpicox/drpx-otherwisehome"
+  },
+  "keywords": [
+    "angularjs",
+    "route",
+    "otherwisehome",
+    "directive"
+  ],
+  "author": "David Rodenas <david.rodenas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drpicox/drpx-otherwisehome/issues"
+  },
+  "homepage": "https://github.com/drpicox/drpx-otherwisehome"
+}
